@@ -91,11 +91,11 @@ carbon emissions and sea levels over the years.
 
   + Map Box
   <img width="800" alt="Mapbox-India" src="https://user-images.githubusercontent.com/100257642/234192602-1092f392-49dd-4c32-8cda-1b7f63cf4ec4.png">
-<img width="800" alt="Mapbox-China" src="https://user-images.githubusercontent.com/100257642/234192618-29deec29-c185-4b13-bab9-5c076caf0759.png">
-<img width="800" alt="Mapbox-Canada" src="https://user-images.githubusercontent.com/100257642/234192642-9cad8871-7a70-4b10-92fb-02000b8094dc.png">
-<img width="800" alt="Mapbox-Brazil" src="https://user-images.githubusercontent.com/100257642/234192658-f652d75c-209d-4b9d-b88c-c7395efc1aa9.png">
-<img width="800" alt="Mapbox-Russia" src="https://user-images.githubusercontent.com/100257642/234192678-07a60b9f-8b5d-4dd0-bf82-f29c04e53de6.png">
-<img width="800" alt="Mapbox-USA" src="https://user-images.githubusercontent.com/100257642/234192695-7f8e4d44-1bb5-48c8-9c63-e3c87b27b11d.png">
+  <img width="800" alt="Mapbox-China" src="https://user-images.githubusercontent.com/100257642/234192618-29deec29-c185-4b13-bab9-5c076caf0759.png">
+  <img width="800" alt="Mapbox-Canada" src="https://user-images.githubusercontent.com/100257642/234192642-9cad8871-7a70-4b10-92fb-02000b8094dc.png">
+  <img width="800" alt="Mapbox-Brazil" src="https://user-images.githubusercontent.com/100257642/234192658-f652d75c-209d-4b9d-b88c-c7395efc1aa9.png">
+  <img width="800" alt="Mapbox-Russia" src="https://user-images.githubusercontent.com/100257642/234192678-07a60b9f-8b5d-4dd0-bf82-f29c04e53de6.png">
+  <img width="800" alt="Mapbox-USA" src="https://user-images.githubusercontent.com/100257642/234192695-7f8e4d44-1bb5-48c8-9c63-e3c87b27b11d.png">
 
   + Line Charts
   <img width="800" alt="Line Chart- Continents" src="https://user-images.githubusercontent.com/100257642/234192710-d58d3cc5-d7ff-45d7-9feb-0507a10b8736.png">
@@ -117,7 +117,7 @@ carbon emissions and sea levels over the years.
 
   + Bar Chart
   <img width="800" alt="BarChartCO2_Top5" src="https://user-images.githubusercontent.com/100257642/234192869-fc969b45-ab71-4fdd-ba19-29e2ca1a5b1f.png">
-<img width="800" alt="BarChartCO2_Bottom5" src="https://user-images.githubusercontent.com/100257642/234192887-59744860-03d4-465f-b542-605065ea6d90.png">
+  <img width="800" alt="BarChartCO2_Bottom5" src="https://user-images.githubusercontent.com/100257642/234192887-59744860-03d4-465f-b542-605065ea6d90.png">
 
   + Bubble Plot
   <img width="800" alt="Bubbleplot" src="https://user-images.githubusercontent.com/100257642/234192904-dfbed3a5-30f3-476a-9bd6-62f88da5a49e.png">
@@ -125,7 +125,7 @@ carbon emissions and sea levels over the years.
   
   + Line Chart
   <img width="800" alt="LineChartCO2_Top5" src="https://user-images.githubusercontent.com/100257642/234192928-7b20199d-6297-4c77-84b4-105a3f5ab0da.png">
-<img width="800" alt="LineChartCO2_Bottom5" src="https://user-images.githubusercontent.com/100257642/234192939-331671d5-95e9-40d5-9679-c8c342072750.png">
+  <img width="800" alt="LineChartCO2_Bottom5" src="https://user-images.githubusercontent.com/100257642/234192939-331671d5-95e9-40d5-9679-c8c342072750.png">
 
   + Choropleth Map
   <img width="800" alt="ChoroplethCO2_Choro" src="https://user-images.githubusercontent.com/100257642/234192948-74e2b7c2-31cc-4ddf-ba35-b6cf960f2bbe.png">
@@ -142,26 +142,27 @@ carbon emissions and sea levels over the years.
 
    + Box and Whiskers Plot
    <img width="800" alt="SeaLevel_Box1" src="https://user-images.githubusercontent.com/100257642/234193003-0d482a05-1216-4754-8280-d14fe40c9334.png">
-<img width="800" alt="SeaLevel_Box2" src="https://user-images.githubusercontent.com/100257642/234193016-e69023d0-c0bc-455f-b7ae-eb2f9566f331.png">
+   <img width="800" alt="SeaLevel_Box2" src="https://user-images.githubusercontent.com/100257642/234193016-e69023d0-c0bc-455f-b7ae-eb2f9566f331.png">
 
    + Area Chart
    <img width="800" alt="SeaLevel_Area" src="https://user-images.githubusercontent.com/100257642/234193033-8fe7bfb3-8c12-4204-8223-e460f13bb245.png">
 
    + Line Chart
-<img width="800" alt="SeaLevel_line" src="https://user-images.githubusercontent.com/100257642/234193062-e0aff12b-2333-436d-a57c-ea4008f671dd.png">
+  <img width="800" alt="SeaLevel_line" src="https://user-images.githubusercontent.com/100257642/234193062-e0aff12b-2333-436d-a57c-ea4008f671dd.png">
 
 
 + Correlation 
   + Stacked Bar Chart
   <img width="800" alt="corr1" src="https://user-images.githubusercontent.com/100257642/234193415-22f34039-7a75-4353-bd29-1abbfec7dc16.png">
-<img width="800" alt="corr3" src="https://user-images.githubusercontent.com/100257642/234193512-aa1b3ddc-22c0-4a30-a9fb-6c6e99cafc25.png">
+  <img width="800" alt="corr3" src="https://user-images.githubusercontent.com/100257642/234193512-aa1b3ddc-22c0-4a30-a9fb-6c6e99cafc25.png">
 
   + Line Chart
   <img width="800" alt="corr2" src="https://user-images.githubusercontent.com/100257642/234193496-24f2167c-df26-4188-8100-dcfa6abfb1a2.png">
-<img width="800" alt="corr4" src="https://user-images.githubusercontent.com/100257642/234193524-b77a3969-250a-450d-9270-4f2f0b7d42c1.png">
+  <img width="800" alt="corr4" src="https://user-images.githubusercontent.com/100257642/234193524-b77a3969-250a-450d-9270-4f2f0b7d42c1.png">
 
   + Scatter Plot
-<img width="800" alt="corr5" src="https://user-images.githubusercontent.com/100257642/234193549-7c157639-1909-47ea-bb23-d939756238b2.png">
+  <img width="800" alt="corr5" src="https://user-images.githubusercontent.com/100257642/234193549-7c157639-1909-47ea-bb23-d939756238b2.png">
+
 
 
 
