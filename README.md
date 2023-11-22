@@ -1,5 +1,6 @@
 # VISUAL EXPLORATION OF LARGE EARTH SURFACE TEMPERATURE, CARBON EMISSIONS AND SEA LEVEL DATASETS
-
+## Members :-
+### Drashtant Singh Rathod, Sudiksha Navik, Shashank Ropalu
 ## INTRODUCTION
 Our system strives to solve the problem of visualizing the complex and large datasets related to earth's climate. Through a combination of data visualization, mapping, and interactive features, our interface intends to provide a unique and engaging way to explore the impacts of climate change on our planet. We have mainly focused on three datasets:
 + [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
